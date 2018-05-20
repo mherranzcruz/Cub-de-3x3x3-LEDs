@@ -1,6 +1,6 @@
 /*****************************************************************
 **                                                              **
-**                        Títol: KNIGHT RIDER llums             **
+**                        Títol: cubo leds 3 x 3 x 3            **
 **          Posar nom representatiu del programa                **
 **                                                              **
 ** NOM:Martin Herranz Cruz                     Data:16/04/2018  **
